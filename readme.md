@@ -123,6 +123,7 @@ jupyter notebook notebooks/customerchurn.ipynb
 ---
 
 👩‍💻 Author
+
 Developed with ❤️ by Vedika Sankhe
 
 If you like this project, don’t forget to ⭐ the repo!
@@ -130,5 +131,6 @@ If you like this project, don’t forget to ⭐ the repo!
 ---
 
 📜 License
+
 This project is licensed under the MIT License – see the LICENSE 
 
