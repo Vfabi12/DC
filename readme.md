@@ -1,3 +1,4 @@
+
 # 📊 Telecom Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -120,4 +121,19 @@ pip install -r requirements.txt
 
 # 3. Run the notebook
 jupyter notebook notebooks/customerchurn.ipynb
+```
 
+👩‍💻 Author
+
+Developed with ❤️ by Vedika Sankhe
+
+If you like this project, don’t forget to ⭐ the repo!
+
+💬 Feedback
+
+If you have any feedback, please reach out at vedikasankhe11 [at] gmail [dot] com
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
