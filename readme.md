@@ -110,6 +110,7 @@ Here are some key visuals from the analysis:
 
 ## 📦 How to Run
 
+```bash
 # 1. Clone this repo
 git clone https://github.com/VedikaSankhe/Telecom-Customer-Churn.git
 cd Telecom-Customer-Churn
@@ -128,9 +129,11 @@ Developed with ❤️ by Vedika Sankhe
 
 If you like this project, don’t forget to ⭐ the repo!
 
----
+💬 Feedback
+
+If you have any feedback, please reach out at vedikasankhe11 [at] gmail [dot] com
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE 
-
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
